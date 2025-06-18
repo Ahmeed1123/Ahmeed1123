@@ -52,8 +52,8 @@ Welcome to my GitHub profile! 🚀 I specialize in creating beautiful user inter
  </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeed1123&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeed1123" /> </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmeed1123&show_icons=true&layout=showing&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeed1123&show_icons=true&locale=en&layout=compact&theme=dark&card_width=320&card_height=195" style="margin:10px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmeed1123&show_icons=true&theme=highcontrast&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeed1123&show_icons=true&locale=en&layout=compact&theme=highcontrast&card_width=320&card_height=195" style="margin:10px" />
   <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmeed1123&show_icons=true&locale=en&layout=compact&theme=dark" /> -->
 </div>
 
