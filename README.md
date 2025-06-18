@@ -1,4 +1,15 @@
-## Hi there 👋
+## <div style="margin-bottom:15px">Welcome to Ahmed Abdurauf GitHub! 👋</div>
+
+<p style="margin-bottom:15px;">
+Welcome to my GitHub profile! 🚀 I specialize in creating beautiful user interfaces and building powerful web applications using PHP and Laravel. I love turning ideas into clean, functional code.
+</p>
+
+📊 GitHub Stats and Most Used Languages
+<hr style="border-width:1px;">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmeed1123&show_icons=true&theme=transparent)
+![ Most Used Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeed1123&layout=compact)
+
+
 
 <!--
 **Ahmeed1123/Ahmeed1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
