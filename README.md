@@ -6,8 +6,7 @@ Welcome to my GitHub profile! 🚀 I specialize in creating beautiful user inter
 
 📊 GitHub Stats and Most Used Languages
 <hr style="border-width:1px;">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmeed1123&show_icons=true&theme=transparent)
-![ Most Used Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeed1123&layout=compact)
+
 
 
 
