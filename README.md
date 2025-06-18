@@ -4,9 +4,9 @@
 Welcome to my GitHub profile! 🚀 I specialize in creating beautiful user interfaces and building powerful web applications using PHP and Laravel. I love turning ideas into clean, functional code.
 </p>
 
-📊 GitHub Stats and Most Used Languages
+<!--📊 GitHub Stats and Most Used Languages
 <hr style="border-width:1px;">
-
+-->
 
 
 
